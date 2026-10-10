@@ -1,1 +1,5 @@
-
+## v1.0.4 - October 10, 2026
+- New Guns
+- Added two guns
+- Improved loading time
+- Respawn if fall out of map
